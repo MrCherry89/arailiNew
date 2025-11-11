@@ -1,0 +1,74 @@
+
+@font-face {
+  font-family: 'Gilroy';
+  src: url('../fonts/Gilroy-Light.eot');
+  src: local('../fonts/Gilroy Light'), local('../fonts/Gilroy-Light'),
+      url('../fonts/Gilroy-Light.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/Gilroy-Light.woff') format('woff'),
+      url('../fonts/Gilroy-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Helvetica';
+  src: url('Helvetica.eot');
+  src: local('Helvetica'),
+      url('../fonts/Helvetica.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/Helvetica.woff2') format('woff2'),
+      url('../fonts/Helvetica.woff') format('woff'),
+      url('../fonts/Helvetica.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+@font-face {
+  font-family: 'Helvetica';
+  src: url('Helvetica-Light.eot');
+  src: local('Helvetica Light'), local('Helvetica-Light'),
+      url('../fonts/Helvetica-Light.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/Helvetica-Light.woff2') format('woff2'),
+      url('../fonts/Helvetica-Light.woff') format('woff'),
+      url('../fonts/Helvetica-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Helvetica';
+  src: url('Helvetica-Bold.eot');
+  src: local('Helvetica Bold'), local('Helvetica-Bold'),
+      url('../fonts/Helvetica-Bold.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/Helvetica-Bold.woff2') format('woff2'),
+      url('../fonts/Helvetica-Bold.woff') format('woff'),
+      url('../fonts/Helvetica-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cygre';
+  src: url('../fonts/Cygre-LightIt.woff2') format('woff2'),
+      url('../fonts/Cygre-LightIt.woff') format('woff'),
+      url('../fonts/Cygre-LightIt.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cygre';
+  src: url('../fonts/Cygre-Light.woff2') format('woff2'),
+      url('../fonts/Cygre-Light.woff') format('woff'),
+      url('../fonts/Cygre-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+
